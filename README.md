@@ -11,10 +11,6 @@
 Занимался разработкой проектов под ключ. Верстка, интеграция вёрстки на cms, разработка доп. функционала, перенос на хостинг клиента. <br>
 Далее в моей работе появились js фреймворки. Сначала это был react, а через год подоспел и первый опыт на vuejs.<br>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ---
 
 ### Являюсь основателем:
@@ -25,8 +21,9 @@
 <div>
  <a href="https://t.me/magslaaash" target="_blank">Группа в telegram Подкаста Слэш</a>
 </div>
-
-<div style="margin-top: 10px;">
+<br>
+<br>
+<div>
  <a href="https://www.youtube.com/@slaaash_podcast" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
 </a>
