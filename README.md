@@ -19,24 +19,28 @@
 
 ### Являюсь основателем:
 
-:point_right:  <a href="https://shpstudio.ru/" target="_blank">shpstudio</a>
-:point_right:  <a href="https://slaaash.ru/" target="_blank">Подкаст Слэш</a>
+<div>:point_right:  <a href="https://shpstudio.ru/" target="_blank">shpstudio</a></div>
+<div>:point_right:  <a href="https://slaaash.ru/" target="_blank">Подкаст Слэш</a></div>
 
-<a href="https://t.me/magslaaash" target="_blank">
-Группа в telegram Подкаста Слэш
-</a>
+<div>
+ <a href="https://t.me/magslaaash" target="_blank">Группа в telegram Подкаста Слэш</a>
+</div>
 
-<a href="https://www.youtube.com/@slaaash_podcast" target="_blank">
+<div>
+ <a href="https://www.youtube.com/@slaaash_podcast" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
 </a>
+</div>
 
 ---
 
 ### 🤝 Социальные сети:
 
-<a href="https://t.me/Serzh_shpalyutin" target="_blank">
+<div>
+ <a href="https://t.me/Serzh_shpalyutin" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
+</div>
 
 ---
 
