@@ -35,7 +35,9 @@
 
 <div>:point_right:  <a href="https://www.98mag.kz/" target="_blank">98mag</a> — Web журнал на различные темы</div>
 <div>:point_right:  <a href="https://wishmaster.me/" target="_blank">Wishmaster</a> — интернет-магазин цифровой и бытовой техники с доставкой по России</div>
+<div>:point_right:  <a href="https://totoinax.ru/" target="_blank">Toto Inax</a> — Японские электронные унитазы и крышки биде</div>
 <div>:point_right:  <a href="https://kozlov-official.ru/" target="_blank">Владимир Васильевич Козлов</a> — Доктор психологических наук по двум специальностям</div>
+<div>:point_right:  <a href="https://base.saymeow.com.ua/" target="_blank">Saymeow</a> — Когтеточки нового поколения</div>
 
 <div>Список будет пополняться</div>
 
