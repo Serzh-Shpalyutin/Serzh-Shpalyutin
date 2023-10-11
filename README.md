@@ -38,6 +38,7 @@
 <div>:point_right:  <a href="https://totoinax.ru/" target="_blank">Toto Inax</a> — Японские электронные унитазы и крышки биде</div>
 <div>:point_right:  <a href="https://kozlov-official.ru/" target="_blank">Владимир Васильевич Козлов</a> — Доктор психологических наук по двум специальностям</div>
 <div>:point_right:  <a href="https://base.saymeow.com.ua/" target="_blank">Saymeow</a> — Когтеточки нового поколения</div>
+<div>:point_right:  <a href="https://guideroom.pro/" target="_blank">guideroom.pro</a> — Мастерская гайдов</div>
 
 <div>Список будет пополняться</div>
 
