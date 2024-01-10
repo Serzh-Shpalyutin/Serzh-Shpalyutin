@@ -1,17 +1,8 @@
-# Привет, меня зовут Сергей!👋
 # Hello, my name is Sergey!👋
 
 ---
 
-### :man_technologist: Обо мне:
 ### :man_technologist: About me:
-
-Я уже более пяти лет являюсь веб разработчиком. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br>
-Начинал с базы в виде верстки на html и css. Некоторое время использовал и усложнял свои проекты различными js фичами.<br>
-Дальше появились в моём арсенале git и gulp. Стал использовать, настраивать и собирать сборки для вёрстки.<br>
-Следующим этапом моего развития стали cms системы, такие как wordpress и bitrix. Так же в стек технологий добавился язык программирования php.<br>
-Занимался разработкой проектов под ключ. Верстка, интеграция вёрстки на cms, разработка доп. функционала, перенос на хостинг клиента. <br>
-Далее, в моей работе появились js фреймворки. Сначала это был react, а через год подоспел и первый опыт на vuejs.<br>
 
 I've been a web developer for over five years. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br>
 I started with a base in the form of layout in html and css. For some time I used and complicated my projects with various js features.<br>
@@ -22,7 +13,6 @@ Next, js frameworks appeared in my work. At first it was react, and a year later
 
 ---
 
-### Являюсь основателем:
 ### I am the founder of:
 
 <div>:point_right:  <a href="https://shpstudio.ru/" target="_blank">shpstudio</a></div>
@@ -58,9 +48,6 @@ Next, js frameworks appeared in my work. At first it was react, and a year later
 
 ---
 
-
-
-### 🤝 Социальные сети:
 ### 🤝 Social networks:
 
 <div>
@@ -71,7 +58,6 @@ Next, js frameworks appeared in my work. At first it was react, and a year later
 
 ---
 
-### 💻 Технологии:
 ### 💻 Technologies:
 
 <div>
@@ -89,7 +75,6 @@ Next, js frameworks appeared in my work. At first it was react, and a year later
 
 ---
 
-### 🛠 Инструменты:
 ### 🛠 Tools:
 
 <div>
