@@ -34,6 +34,7 @@ Next, js frameworks appeared in my work. At first it was react, and a year later
 ### Проекты:
 ### Projects:
 
+<div>:point_right:  <a href="https://vowsandwhispers.com/" target="_blank">Vows & Whispers</a> — e-commerce project</div>
 <div>:point_right:  <a href="https://novateq.haus/" target="_blank">Novateq</a> — Уютный экодом всего за 3 месяца</div>
 <div>:point_right:  <a href="https://www.98mag.kz/" target="_blank">98mag</a> — Web журнал на различные темы</div>
 <div>:point_right:  <a href="https://chateauletruch.fr/" target="_blank">Chateau Le Truch</a> — Отель</div>
